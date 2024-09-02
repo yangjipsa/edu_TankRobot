@@ -1,5 +1,5 @@
 /*
-  YAHBOOM G1 Tank Robot (ver. Arduino) : LED example Code
+  YAHBOOM G1 Tank Robot (ver. Arduino) : Servo motor example Code
   - File Name : TankRobot_ServoMotor_ex1.ino
   - Update : 2024.09.03 (by yangjipsa)
 */ 
