@@ -1,6 +1,6 @@
 /*
   YAHBOOM G1 Tank Robot (ver. Arduino) : Sonar sensor example Code
-  - File Name : TankRobot_Sonor_ex1.ino
+  - File Name : TankRobot_Sonar_ex1.ino
   - Update : 2024.09.03 (by yangjipsa)
 */ 
 
